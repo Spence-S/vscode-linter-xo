@@ -1,3 +1,5 @@
+# DEPRECATED PLEASE USE [xo vsvode](https://github.com/xojs/vscode-linter-xo)
+
 # vscode-linter-xo
 
 [![Build Status](https://travis-ci.org/spence-s/vscode-linter-xo.svg?branch=master)](https://travis-ci.org/spence-s/vscode-linter-xo)
